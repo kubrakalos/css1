@@ -14,7 +14,7 @@ body{
 }
 .component--bicycle{
     background-color: #fff;
-    border-radius: 4px;
+    border-radius: 5px;
     width: 520px;
     height: 550px;
     position: absolute;
